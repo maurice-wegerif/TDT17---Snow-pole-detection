@@ -1,0 +1,10 @@
+data/
+
+# Ignore image files
+*.jpg
+*.png
+
+# --- Virtual environments ---
+yoloenv/
+.env/
+env/

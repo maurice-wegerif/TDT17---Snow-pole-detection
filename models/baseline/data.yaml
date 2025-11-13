@@ -1,0 +1,7 @@
+path: .
+train: ../../data/images/Train/train
+val: ../../data/images/Validation/val
+test: ../../data/images/Test/test
+
+nc: 1
+names: ["snow_pole"]
