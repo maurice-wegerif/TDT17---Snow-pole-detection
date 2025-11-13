@@ -8,3 +8,7 @@ data/
 yoloenv/
 .env/
 env/
+
+venv/
+models/baseline/runs/
+*runs/
