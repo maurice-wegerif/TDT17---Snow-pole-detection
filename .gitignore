@@ -12,3 +12,4 @@ env/
 venv/
 models/baseline/runs/
 *runs/
+*.pth
