@@ -1,0 +1,14 @@
+{
+    "model": "Faster R-CNN (ResNet50-FPN)",
+    "dataset_fraction": 1,
+    "num_epochs": 10,
+    "validation_samples": 353,
+    "metrics": {
+        "Precision": 0.82022471910097,
+        "Recall": 0.9887133182844243,
+        "mAP@50": 0.9060595767986367,
+        "mAP@0.5:0.95": 0.7036089937635831
+    },
+    "final_training_loss": 0.03533849689838347
+}
+

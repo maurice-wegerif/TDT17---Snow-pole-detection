@@ -13,3 +13,8 @@ venv/
 models/baseline/runs/
 *runs/
 *.pth
+
+*predictions/
+output*
+*.slurm
+*.yaml

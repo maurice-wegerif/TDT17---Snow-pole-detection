@@ -1,0 +1,21 @@
+{
+    "model": "MobileNetV3-SSDLite320",
+    "model_size_mb": 8.417205810546875,
+    "total_parameters": 2206520,
+    "dataset_fraction": 1.0,
+    "num_epochs": 100,
+    "validation_samples": 353,
+    "metrics": {
+        "Precision": 0.4282115869016554,
+        "Recall": 0.3837471783295711,
+        "mAP@50": 0.20270694286414567,
+        "mAP@0.5:0.95": 0.08526830296629584
+    },
+    "performance": {
+        "avg_inference_time_ms": 23.104047640187208,
+        "fps": 43.282459228511925
+    },
+    "final_train_loss": 0.020884244755806424,
+    "final_val_loss": 4.051583590832624,
+    "edge_device_ready": true
+}
