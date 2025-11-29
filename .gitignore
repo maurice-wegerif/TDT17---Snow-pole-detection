@@ -16,5 +16,3 @@ models/baseline/runs/
 
 *predictions/
 output*
-*.slurm
-*.yaml
